@@ -1,2 +1,2 @@
 # C-
-General practice of C ++ Language
+General practice of C Language
